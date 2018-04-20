@@ -1,9 +1,12 @@
-# Lottery-Ticket-Generator(DBMS PROJECT)
+# Lottery-Ticket-Generator (very simpleDBMS PROJECT)
 
 ## Tools Used
 *python
+
 *tkinter
+
 *mysqlclient
+
 
 ## Description
 The program uses two python files. One to generate random lottery numbers and second to declare winner of the lottery.
